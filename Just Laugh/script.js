@@ -1,3 +1,4 @@
+//contains all the joke data set in it 
 let myjokes=[
     {
         "category": "Programming",
